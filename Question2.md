@@ -10,6 +10,8 @@ namespace Question2
     {
         static void Main(string[] args)
         {
+        
+        
             int input;
             do
             {
